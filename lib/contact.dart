@@ -27,7 +27,7 @@ class _ContactState extends State<Contact> {
 
             child:
 
-        Center(child: Text("Developed By-\n\nTanvir Ahmmed Sifat\nID-IT20026\nit20026@mbstu.ac.bd\n\nNusrat Jahan Richi\nID-IT20027\nit20027@mbstu.ac.bd"))
+        Center(child: Text("Developed By-\n\nTanvir Ahmmed Sifat\nID-IT20026\nit20026@mbstu.ac.bd\n\nNusrat Jahan Richi\nID-IT20027\nit20027@mbstu.ac.bd\nAshik Ahmmed Sajib\nit20036@mbstu.ac.bs"))
         ),
 
       ),
